@@ -1,0 +1,47 @@
+From b.ghose at gnu.org.in  Mon Oct 24 20:39:15 2005
+From: b.ghose at gnu.org.in (Baishampayan Ghose)
+Date: Tue, 25 Oct 2005 00:09:15 +0530
+Subject: [Palam-devel] We need to fix the proposal fast
+Message-ID: <fb49d0e80510241139u8b52d6elad536b31e187bfc8@mail.gmail.com>
+
+KG,
+We need to get the proposal ready fast. I am at the moment a bit stuck
+up with college internal oral exams. Kindly try to do something about
+it. Check out the features of Rosetta and Pootle and see how we can go
+about with it.
+At the same time, keep a tab on the Birbal project. We can't afford to
+lose this opportunity.
+Regards,
+BG
+
+--
+Baishampayan Ghose
+b.ghose at gnu.org.in
+
+
+From lawgon at thenilgiris.com  Tue Oct 25 03:12:53 2005
+From: lawgon at thenilgiris.com (Kenneth Gonsalves)
+Date: Tue, 25 Oct 2005 06:42:53 +0530
+Subject: [Palam-devel] We need to fix the proposal fast
+In-Reply-To: <fb49d0e80510241139u8b52d6elad536b31e187bfc8@mail.gmail.com>
+References: <fb49d0e80510241139u8b52d6elad536b31e187bfc8@mail.gmail.com>
+Message-ID: <200510250642.53292.lawgon@thenilgiris.com>
+
+On Tuesday 25 Oct 2005 12:09 am, Baishampayan Ghose wrote:
+> KG,
+> We need to get the proposal ready fast. I am at the moment a bit
+> stuck up with college internal oral exams. Kindly try to do something
+> about it. Check out the features of Rosetta and Pootle and see how we
+> can go about with it.
+
+in the process of checking - i tried a pootle site for a live check, but 
+it was somewhat broken.
+-- 
+regards
+kg
+
+http://www.livejournal.com/users/lawgon
+tally ho! http://avsap.org.in
+?????????? ?????!
+
+
